@@ -44,7 +44,5 @@ public class Employee {
         return "Сотрудник " + name + ", отдел № " +  department + " заработная плата: " + monthSalary + " номер:" + id ;
     }
 
-    public static void main(String[] args) {
 
-    }
 }
